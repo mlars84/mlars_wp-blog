@@ -21,6 +21,8 @@ html
 body
 {
 	background-image: url('https://static1.squarespace.com/static/52630470e4b0696c720bcb09/t/52711f56e4b0b910b6900020/1383145305354/Winter+frost.jpg?format=1500w');
+	background-repeat: no-repeat;
+	background-size: 100%;
 	margin: 0;
 }
 body, input, textarea
@@ -65,7 +67,7 @@ a:hover
 }
 a:visited
 {
-	color: red;
+	color: ##53677d;
 }
 
 
